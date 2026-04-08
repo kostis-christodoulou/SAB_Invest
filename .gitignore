@@ -1,4 +1,9 @@
 .DS_Store
 wip/
 *.ipynb_checkpoints/ # Jupyter checkpoints
-.venv
+.venv.venv/
+**/.venv/
+~/.cache/uv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
