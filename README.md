@@ -10,7 +10,7 @@
 | Wrangling Financial Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/SAB_Invest/blob/main/session01_02_wrangling_financial_time_series.ipynb) |
 | AAPL CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/SAB_Invest/blob/main/session01_aapl_CAPM.ipynb) |
 | S&P 500 CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/SAB_Invest/blob/main/session01_sp500_CAPM.ipynb) |
-| Tadawul 500 CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/SAB_Invest/blob/main/session01_tadawul_CAPM.ipynb) |
+| Tadawul CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/SAB_Invest/blob/main/session01_tadawul_CAPM.ipynb) |
 
 
 ### Day 2
